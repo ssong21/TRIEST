@@ -12,8 +12,11 @@ javac *.java
 To run the program:
 
 java Main [-bhi] samplesize inputfile
+	
 	-b: run the -BASE version of TRIEST (default)
+	
 	-h: prints this help message and exits
+	
 	-i: run the -IMPR version of TRIEST
 	
 Example command:
