@@ -1,5 +1,5 @@
 # TRIEST
-An implementation and evaluation of the TRIEST-BASE and TRIEST-IMPR algorithms, as presented in [TRIEST: Counting Local and Global Triangles in Fully-Dynamic Streams with Fixed Memory Size](https://www.twosigma.com/articles/triest-counting-local-and-global-triangles-in-fully-dynamic-streams-with-fixed-memory-size/).  
+An implementation and evaluation of the TRIEST-BASE and TRIEST-IMPR algorithms, as presented in [TRIEST: Counting Local and Global Triangles in Fully-Dynamic Streams with Fixed Memory Size](https://www.twosigma.com/articles/triest-counting-local-and-global-triangles-in-fully-dynamic-streams-with-fixed-memory-size/).
 
 See report.pdf for a writeup analyzing the performance of the two algorithms.
 
